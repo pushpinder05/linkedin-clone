@@ -64,6 +64,9 @@ function Login() {
                 <span className="login__register" onClick={register}>Register Now</span>
             </p>
 
+            <p><strong>Login options:-</strong></p>
+            <p>1. To login as <strong>Guest</strong> use these credentials - Email: elonmusk@gmail.com - Password: elonmusk - Sign In</p>
+            <p>2. To <strong>Register</strong> - Type your Full name, Email, Password and then click on Register Now</p>
         </div>
          
     )
